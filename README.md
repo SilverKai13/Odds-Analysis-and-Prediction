@@ -2,7 +2,7 @@
 
 An exploration of a sports-betting dataset, and an honest attempt to
 predict match outcomes from the bookmaker odds. The short version: on this
-particular data, you can't — and the interesting part is showing exactly
+particular data, you can't and the interesting part is showing exactly
 why, rather than pretending the numbers say something they don't.
 
 ## The data
